@@ -2,7 +2,7 @@
 
 ![IndevOverview](https://github.com/Saul-Alejandro-Gonzalez-Vilchis/Saul-Alejandro-Gonzalez-Vilchis/assets/126918321/f97fd705-5037-48d0-b3c8-e3341e333573)
 
-Hello, I'm [@Saúl-Alejandro-Gonzalez-Vilchis](https://github.com/Saul-Alejandro-Gonzalez-Vilchis). 👋  I 14 years old & I'm the CEO of [@INDEV Inc](https://github.com/INDEV-Inc) and I love creating products that make developers' lives easier. New Horizons with new science and nature to create new worlds that can develop. you can go to [INDEV Website](https://indev-inc.github.io/Indev)), I currently creating INDEX 3 (INDEX 2025) for ending of 2024 making too much great stuff in it on INDEX 3.0 and 4.0 (GODOT)
+Hello, I'm [@Saúl-Alejandro-Gonzalez-Vilchis](https://github.com/Saul-Alejandro-Gonzalez-Vilchis). 👋  I 14 years old & I'm the CEO of [@AutoINDEV](https://github.com/INDEV-Inc) (INDEV) and I love creating products that make developers' lives easier. New Horizons with new science and nature to create new worlds that can develop. you can go to [AutoINDEV Website](https://indev-inc.github.io/AutoINDEV/)), I currently creating INDEX 3 (INDEX 2025) for ending of 2024 making too much great stuff in it on INDEX 3.0 and 4.0 (GODOT)
 - 🔭 I’m currently working on **INDEX 3.0 & INDEV 4.0**
 
 - 🌱 I’m currently learning **C++, C# & GDScript**
@@ -13,9 +13,9 @@ Hello, I'm [@Saúl-Alejandro-Gonzalez-Vilchis](https://github.com/Saul-Alejandro
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/indev_inc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="indev_inc" height="30" width="40" /></a>
-<a href="https://instagram.com/indev_inc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indev_inc" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@indev1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@indev1" height="30" width="40" /></a>
+<a href="https://x.com/AutoINDEV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AutoINDEV" height="30" width="40" /></a>
+<a href="https://www.instagram.com/accounts/edit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AutoINDEV" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC_JZ8VjseufN-kEaqvxy2-Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@AutoINDEV" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
